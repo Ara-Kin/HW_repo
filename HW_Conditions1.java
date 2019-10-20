@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class HW_Conditions1 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in); // standard input data flow, scanner links to object of class Scanner
+        Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a number: ");
         int x = scanner.nextInt();
 
